@@ -1,15 +1,22 @@
-# Omar Adel
+```bash
+omar@workstation:~$ whoami
+Omar Adel — Full-Stack Engineer & Builder
 
-Full-stack engineer building fast, responsive web systems and clean APIs. Focused on modern TypeScript architecture, relational data, and edge infrastructure.
+omar@workstation:~$ cat tech-stack.json
+{
+  "frontend": ["TypeScript", "Next.js", "React", "Tailwind CSS"],
+  "backend":  ["Node.js", "Express", "REST APIs"],
+  "database": ["PostgreSQL", "MySQL", "PGlite"],
+  "infra":    ["Cloudflare Workers", "Docker", "Ubuntu", "n8n"]
+}
 
-- **Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL, Cloudflare Workers
-- **Portfolio:** [omar-adel.me](https://omar-adel.me)
-- **LinkedIn:** [/in/omar-adel-dev](https://www.linkedin.com/in/omar-adel-dev/)
-- **Contact:** [omar.hitman@gmail.com](mailto:omar.hitman@gmail.com)
+omar@workstation:~$ curl -s [https://omar-adel.me/status](https://omar-adel.me/status)
+{
+  "focus": "Shipping high-performance web apps & edge workflows",
+  "available_for": "Collaborations, freelance builds & engineering roles"
+}
 
----
-
-### Selected Focus
-* **Frontend Systems:** Building type-safe interfaces with Next.js App Router and Tailwind CSS.
-* **Backend & Storage:** Pragmatic API design with Node.js and PostgreSQL / MySQL.
-* **Automation & Cloud:** Edge deployments on Cloudflare and workflow orchestration with n8n.
+omar@workstation:~$echo$CONTACT_INFO
+Web:      [https://omar-adel.me](https://omar-adel.me)
+LinkedIn: [https://linkedin.com/in/omar-adel-dev](https://linkedin.com/in/omar-adel-dev)
+Email:    omar.hitman@gmail.com
