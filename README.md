@@ -6,9 +6,9 @@
 
 Building performant web applications, modern interfaces, and scalable backend workflows.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.dev)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-omar--adel.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omar-adel.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--adel--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-adel-dev/)
+[![Email](https://img.shields.io/badge/Email-omar.hitman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.hitman@gmail.com)
 
 ---
 
