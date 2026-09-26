@@ -1,20 +1,15 @@
-<div align="center">
-
 # Omar Adel
 
-**Full-Stack Software Engineer • Web Architect**
+Full-stack engineer building fast, responsive web systems and clean APIs. Focused on modern TypeScript architecture, relational data, and edge infrastructure.
 
-Building performant web applications, modern interfaces, and scalable backend workflows.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-omar--adel.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omar-adel.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-omar--adel--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-adel-dev/)
-[![Email](https://img.shields.io/badge/Email-omar.hitman%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.hitman@gmail.com)
+- **Stack:** TypeScript, React, Next.js, Node.js, PostgreSQL, Cloudflare Workers
+- **Portfolio:** [omar-adel.me](https://omar-adel.me)
+- **LinkedIn:** [/in/omar-adel-dev](https://www.linkedin.com/in/omar-adel-dev/)
+- **Contact:** [omar.hitman@gmail.com](mailto:omar.hitman@gmail.com)
 
 ---
 
-</div>
-
-### 🛠️ Core Stack & Tools
-
-```bash
-$ omar --skills --category=core
+### Selected Focus
+* **Frontend Systems:** Building type-safe interfaces with Next.js App Router and Tailwind CSS.
+* **Backend & Storage:** Pragmatic API design with Node.js and PostgreSQL / MySQL.
+* **Automation & Cloud:** Edge deployments on Cloudflare and workflow orchestration with n8n.
